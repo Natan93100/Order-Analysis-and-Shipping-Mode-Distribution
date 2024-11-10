@@ -18,7 +18,7 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
   **For the Code** [Click Here:](SQL_hp_exam.sql)
 
 **Goal:**<br>
-The goal of this code is to analyze order trends and customer preferences by:
+   The goal of this code is to analyze order trends and customer preferences by:
 
 1. Tracking monthly order volumes by region to understand when and where sales are highest.<br>
 2. Highlighting the top-performing regions each month to help focus on areas with the strongest demand.<br>
@@ -26,4 +26,8 @@ The goal of this code is to analyze order trends and customer preferences by:
 <br>
 
 **Description:**<br> 
-This project explores job postings across various industries to uncover key trends in the job market.<br> The analysis focuses on salary trends, the relationship between job roles and skills, and the demand for specific technical competencies.<br> By leveraging a comprehensive database of companies, job postings, and skill requirements, the project offers valuable insights into which skills are highly sought after, potential salary expectations, and how these factors vary across different companies.<br>
+
+This SQL code provides a detailed analysis of order data, focusing on monthly order trends, regional sales performance, and shipping mode preferences.<br>
+It first aggregates orders by month and region, enabling the identification of volume trends across various locations.<br>
+Additionally, it identifies the top-performing region each month, spotlighting key markets with the highest order counts.<br>
+Finally, the code calculates the percentage distribution of orders by shipping mode using Common Table Expressions, revealing customer preferences for different delivery options. 

@@ -15,4 +15,4 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 - **Tableau**: Data visualization, interactive dashboards, and storytelling
 
 # Job Market Insights and Skills Gap Analysis<br>
-  **For the DataSet** [Click Here:](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
+  **For the Code** [Click Here:](SQL_hp_exam.sql)

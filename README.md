@@ -16,3 +16,14 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 
 # Job Market Insights and Skills Gap Analysis<br>
   **For the Code** [Click Here:](SQL_hp_exam.sql)
+
+**Goal:**<br>
+The goal of this code is to analyze order trends and customer preferences by:
+
+1. Tracking monthly order volumes by region to understand when and where sales are highest.<br>
+2. Highlighting the top-performing regions each month to help focus on areas with the strongest demand.<br>
+3. Assessing customer preferences in shipping modes by calculating the proportion of orders using each mode.<br>
+<br>
+
+**Description:**<br> 
+This project explores job postings across various industries to uncover key trends in the job market.<br> The analysis focuses on salary trends, the relationship between job roles and skills, and the demand for specific technical competencies.<br> By leveraging a comprehensive database of companies, job postings, and skill requirements, the project offers valuable insights into which skills are highly sought after, potential salary expectations, and how these factors vary across different companies.<br>
